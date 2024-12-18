@@ -30,4 +30,4 @@ This program demonstrates how to serialize a Java object into a JSON file using 
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eze-ms/Json-Serialization-Annotation
+   git clone https://github.com/eze-ms/Annotations-N2-E1
